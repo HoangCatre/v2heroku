@@ -1,5 +1,5 @@
 # Giới thiệu:
-Đây là một repository được fork lại từ [https://github.com/bclswl0827/v2ray-heroku](https://github.com/bclswl0827/v2ray-heroku) với chức năng là tạo ra một server V2Ray trên heroku một cách đơn giản nhất.
+Đây là một repository được fork lại từ [https://github.com/HoangCatre/v2ray-heroku](https://github.com/HoangCatre/v2ray-heroku) với chức năng là tạo ra một server V2Ray trên heroku một cách đơn giản nhất.
 
 Heroku sẽ không khuyến khích việc này nên các bạn cần phải fork lại dự án này để không bị heroku chặn.
 
@@ -29,9 +29,9 @@ Sau khi triển khai, mỗi khi khởi động sẽ tải bản V2Ray mới nh�
 
  1. Fork dự án này qua tài khoản GitHub của bạn（trên PC có thể thấy nút Fork trên cùng bên tay phải, ví dụ tài khoản của bạn tên là `example`）
  2. Sửa lại tên dự án thành tên bất kỳ không nên chứa hai từ khóa `v2ray` và `heroku`（Ví dụ đổi thành `demo`）
- 3. Sửa lại file `README.md`，đường dẫn `kim7tin/v2heroku` bằng đường dẫn của bạn（ví dụ `example/demo`）
+ 3. Sửa lại file `README.md`，đường dẫn `HoangCatre/v2heroku` bằng đường dẫn của bạn（ví dụ `example/demo`）
 
-> [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/kim7tin/v2heroku)
+> [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/HoangCatre/v2heroku)
 
  4. Quay lại trang chủ của dự án，bấm vào liên kết để triển khai V2Ray
 
